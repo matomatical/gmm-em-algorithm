@@ -1,7 +1,7 @@
 """
 script to fit gaussian mixture models
 numpy practice
-DO NOT TRUST THIS TO BE RIGHT
+disclaimer: there may be errors
 Matthew Farrugia-Roberts, 2020.04
 """
 
